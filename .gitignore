@@ -1,0 +1,13 @@
+target/
+test-output/
+.properties
+.classpath
+.settings/
+bin/
+tmp/
+.project
+/custom_reports/*
+/target/
+/screenshots
+/.idea
+/.txt
